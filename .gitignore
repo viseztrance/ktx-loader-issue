@@ -1,0 +1,4 @@
+build
+main-bin
+*.o
+*.d

@@ -1,0 +1,6 @@
+[submodule "vendor/glfw"]
+	path = vendor/glfw
+	url = git@github.com:glfw/glfw.git
+[submodule "vendor/KTX-Software"]
+	path = vendor/KTX-Software
+	url = git@github.com:KhronosGroup/KTX-Software.git
